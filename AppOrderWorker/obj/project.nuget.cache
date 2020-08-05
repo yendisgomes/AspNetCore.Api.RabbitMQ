@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R6thkyMFuOqEzMlpvMSDC0GFgtGmivFIjQ93mCoZMm803w36yu9QWcmeEAyrQuPvZrVB2J9QIHJpgewOLT1YBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\AppOrderWorker\\AppOrderWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yendi\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\yendi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\yendi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

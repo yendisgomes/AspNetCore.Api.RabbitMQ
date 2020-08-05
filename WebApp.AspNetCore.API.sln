@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.AspNetCore.API", "WebApp.AspNetCore.API\WebApp.AspNetCore.API.csproj", "{D565F3CA-5767-478A-80EE-414C7F6FAA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOrderWorker", "AppOrderWorker\AppOrderWorker.csproj", "{7626DC59-A443-4786-8281-17375877ACF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D565F3CA-5767-478A-80EE-414C7F6FAA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D565F3CA-5767-478A-80EE-414C7F6FAA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D565F3CA-5767-478A-80EE-414C7F6FAA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D565F3CA-5767-478A-80EE-414C7F6FAA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7626DC59-A443-4786-8281-17375877ACF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7626DC59-A443-4786-8281-17375877ACF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7626DC59-A443-4786-8281-17375877ACF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7626DC59-A443-4786-8281-17375877ACF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EA68BD-1CBC-40BB-BD9A-03E5C0259CC9}
+	EndGlobalSection
+EndGlobal
