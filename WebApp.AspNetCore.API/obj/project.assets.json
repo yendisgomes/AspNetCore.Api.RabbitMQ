@@ -114,9 +114,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API.csproj",
-      "projectName": "WebApp.AspNetCore.API",
-      "projectPath": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API.csproj",
+      "projectUniqueName": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\AspNetCore.Api.RabbitMQ.csproj",
+      "projectName": "AspNetCore.Api.RabbitMQ",
+      "projectPath": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\AspNetCore.Api.RabbitMQ.csproj",
       "packagesPath": "C:\\Users\\yendi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\obj\\",
       "projectStyle": "PackageReference",

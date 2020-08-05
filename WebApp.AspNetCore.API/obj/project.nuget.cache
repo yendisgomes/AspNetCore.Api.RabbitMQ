@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XgPIc8QHifHuJC8CzvIRCT5iFF80AGsKUvVXFg4LCoxQAv6e7ZGu7Lo6TqOJL59ZYF4R4bmmN0fTm02y9qsKYQ==",
+  "dgSpecHash": "22NkQJ1pLdxNevuOg6dCi5FdSxmqn8MKwnhYUKUDiY76GuszhBnyW4fiWFkOghrLaXhCb+QMry5S3eLk2NqHiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API.csproj",
+  "projectFilePath": "C:\\Users\\yendi\\source\\repos\\WebApp.AspNetCore.API\\WebApp.AspNetCore.API\\AspNetCore.Api.RabbitMQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yendi\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
     "C:\\Users\\yendi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
